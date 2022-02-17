@@ -1182,19 +1182,19 @@ annotations:
     reference: ''
     span:
       start: 230781
-      end: 232642
+      end: 232643
   46499690c66b48d7ac9289fdf40a5180:
     imgnum: 973
     reference: ''
     span:
-      start: 232644
-      end: 234574
+      start: 232645
+      end: 234575
   a0970ad32e3f4a269f4d441319c890f8:
     imgnum: 974
     reference: ''
     span:
-      start: 234576
-      end: 235531
+      start: 234577
+      end: 235532
 local_ids:
   62dfee94944c40fc950d778da271c775: 200000
   8d53ff4aaed548759e7a0bdafcb423a0: 200001
